@@ -8,7 +8,7 @@
 
 ## Prefácio Pedagógico e Diretrizes Didáticas ao Estudante
 
-Estimado(a) discente,
+Estimados(as), alunos
 
 Com grande satisfação acadêmica apresento-lhe este **Compêndio Magistral de 15 Provas Práticas de Aprendizado de Máquina**. O propósito desta obra é conduzi-lo(a), passo a passo e com rigor técnico e científico, pela construção e validação de pipelines completas de Ciência de Dados, utilizando as bases de microdados públicos mais relevantes do Brasil — o **ENADE 2023**, o **Censo Escolar da Educação Básica 2025**, o **Censo da Educação Superior 2024 (CENSUP)** e a **Prova Nacional Docente (PND) 2025** —, suplementadas pelas séries temporais e dados de mercado da API financeira **Alpha Vantage**.
 
